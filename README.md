@@ -194,7 +194,7 @@ but there is no way to avoid this
 without requiring people to edit both files in the usual case
 where no extra pages are created.
 
-## Installing Software
+## Installing Softwares
 
 If you want to set up Jekyll
 so that you can preview changes on your own machine before pushing them to GitHub,
